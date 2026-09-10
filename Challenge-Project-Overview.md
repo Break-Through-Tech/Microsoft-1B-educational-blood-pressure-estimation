@@ -3,6 +3,7 @@
 **Company / Org:** Microsoft  
 **Challenge Advisor:** Wee Hyong Tok, weehyong@gmail.com   
 **AI Studio Coach:** Anshul Rehpade, anshul.rehpade@breakthroughtech.org   
+**Coach Office Hours:** Tuesdays 4:15–5:30 PM ET & Thursdays 5:15–6:30 PM ET — [Book a slot](https://calendar.app.google/TtDmWaqagkoSsJdW6)   
 **Program:** Break Through Tech AI Studio - Fall 2026
 
 ---
