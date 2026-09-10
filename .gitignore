@@ -1,1 +1,2 @@
-data/
+### ignoring mat files ###
+*.mat
