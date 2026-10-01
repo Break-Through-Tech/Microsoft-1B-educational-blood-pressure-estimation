@@ -1,2 +1,5 @@
 *.mat
-cuff+less+blood+pressure+estimation/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
