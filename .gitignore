@@ -1,2 +1,4 @@
 *.mat
 .venv/
+*.bak
+*.npz
