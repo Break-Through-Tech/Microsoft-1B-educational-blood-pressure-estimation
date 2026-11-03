@@ -13,7 +13,7 @@
 | Gabe Shah           | @gabeashah    | __                                                                       |
 | Jade Pham           | @jadepham71   | __                                                                       |
 | Jayden Allen        | @TechJay7     | __                                                                       |
-| Moyin Ogunjobi      | @_            | __                                                                       |
+| Moyinoluwa Ogunjobi | @moyin-oa     | __                                                                       |
 | Pooja Parthasarathy | @poojabio     | __                                                                       |
 | Tishan Ranashinghe  | @tishanr      | __                                                                       |
 
