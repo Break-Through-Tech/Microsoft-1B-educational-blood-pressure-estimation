@@ -1,1 +1,19 @@
+# Dataset and saved feature files (too large for git)
+*.mat
+*.npz
+*.npy
+*.pkl
+data/*
+!data/.gitkeep
 
+# Python environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Local team documents and personal notes (not part of the repo)
+AI Studio Team (Microsoft 1B)/
+plan.md
+
+# macOS
+.DS_Store
