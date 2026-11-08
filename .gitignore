@@ -3,3 +3,4 @@ data/processed/
 .DS_Store
 
 
+*.mat
